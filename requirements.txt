@@ -1,0 +1,22 @@
+# Core numerical and data-analysis stack
+numpy==2.2.2
+pandas==3.0.3
+scipy==1.17.1
+
+# Statistical modeling
+statsmodels==0.14.6
+scikit-learn==1.8.0
+
+# Visualization
+matplotlib==3.10.3
+koreanize-matplotlib==0.1.1
+
+# Geospatial analysis
+geopandas==1.1.1
+
+# Data collection / configuration
+requests==2.34.2
+python-dotenv==1.2.2
+
+# Market data
+finance-datareader==0.9.202
