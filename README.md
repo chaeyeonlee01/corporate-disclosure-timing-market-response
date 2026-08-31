@@ -122,24 +122,6 @@ These measures were used to construct an exploratory industry-level disclosure-r
 
 ## Tools and Techniques
 
-**Programming & Data Processing**
-- Python
-- pandas
-- NumPy
-- Web Scraping
-- DART OpenAPI
-- FinanceDataReader
-
-**Statistical Analysis**
-- Market Model
-- Event Study
-- Cumulative Abnormal Returns (CAR)
-- Chi-square Tests
-- t-tests
-- Kruskal-Wallis Tests
-- Logistic Regression
-- OLS Regression
-
-**Visualization**
-- Matplotlib
-- Statistical and financial data visualization
+- **Programming & Data:** Python, pandas, NumPy, DART OpenAPI, FinanceDataReader, Web Scraping
+- **Statistical Analysis:** Market Model, Event Study, Cumulative Abnormal Returns (CAR), Chi-square Tests, t-tests, Kruskal-Wallis Tests, Logistic Regression, OLS Regression
+- **Visualization:** Matplotlib
