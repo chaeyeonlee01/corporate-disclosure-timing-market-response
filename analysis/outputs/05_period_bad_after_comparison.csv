@@ -1,0 +1,5 @@
+﻿period,bad_total,bad_after,bad_after_pct,total,bad_n,good_n
+Pre-COVID,365,188,51.50684931506849,783,365,418
+COVID & Low-Interest-Rate Period,1093,489,44.73924977127173,2397,1093,1304
+Rate-Hike Period,1267,590,46.56669297553275,2621,1267,1354
+Policy-Change Period,1299,620,47.729022324865284,2750,1299,1451
